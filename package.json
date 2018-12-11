@@ -97,7 +97,7 @@
     "rollup-plugin-re": "^1.0.7",
     "rollup-plugin-typescript2": "^0.17.0",
     "rxjs": "^6.3.2",
-    "semantic-release": "^15.9.12",
+    "semantic-release": "^15.12.5",
     "sigver": "^20.0.2",
     "text-encoding": "^0.6.4",
     "travis-deploy-once": "^5.0.7",
