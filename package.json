@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^7.1.2",
-    "@commitlint/config-conventional": "^7.1.2",
+    "@commitlint/config-conventional": "^7.5.0",
     "@types/jasmine": "^2.8.8",
     "@types/text-encoding": "0.0.33",
     "@types/uws": "^0.13.2",
