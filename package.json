@@ -60,7 +60,7 @@
     "uws": "10.148.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.1.2",
+    "@commitlint/cli": "^7.5.0",
     "@commitlint/config-conventional": "^7.1.2",
     "@types/jasmine": "^2.8.8",
     "@types/text-encoding": "0.0.33",
